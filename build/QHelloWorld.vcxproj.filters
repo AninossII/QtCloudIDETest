@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Aninoss\Documents\Programming\Qt\Cross-Platform Development with Qt 6\Sandbox\Registering\build\QHelloWorld_autogen\mocs_compilation_Debug.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Aninoss\Documents\Programming\Qt\Cross-Platform Development with Qt 6\Sandbox\Registering\src\backendlogic.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Aninoss\Documents\Programming\Qt\Cross-Platform Development with Qt 6\Sandbox\Registering\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Aninoss\Documents\Programming\Qt\Cross-Platform Development with Qt 6\Sandbox\Registering\build\qhelloworld_qmltyperegistrations.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Aninoss\Documents\Programming\Qt\Cross-Platform Development with Qt 6\Sandbox\Registering\build\.rcc\qrc_qmake_rec.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Aninoss\Documents\Programming\Qt\Cross-Platform Development with Qt 6\Sandbox\Registering\build\.rcc\qmlcache\QHelloWorld_qmlcache_loader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Aninoss\Documents\Programming\Qt\Cross-Platform Development with Qt 6\Sandbox\Registering\build\.rcc\qmlcache\QHelloWorld_ui\main_qml.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Aninoss\Documents\Programming\Qt\Cross-Platform Development with Qt 6\Sandbox\Registering\build\.rcc\qrc_QHelloWorld_raw_qml_0.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Aninoss\Documents\Programming\Qt\Cross-Platform Development with Qt 6\Sandbox\Registering\build\QHelloWorld_autogen\mocs_compilation_Release.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Aninoss\Documents\Programming\Qt\Cross-Platform Development with Qt 6\Sandbox\Registering\build\QHelloWorld_autogen\mocs_compilation_MinSizeRel.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Aninoss\Documents\Programming\Qt\Cross-Platform Development with Qt 6\Sandbox\Registering\build\QHelloWorld_autogen\mocs_compilation_RelWithDebInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Aninoss\Documents\Programming\Qt\Cross-Platform Development with Qt 6\Sandbox\Registering\include\backendlogic.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Aninoss\Documents\Programming\Qt\Cross-Platform Development with Qt 6\Sandbox\Registering\build\ddf_QHelloWorld.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Aninoss\Documents\Programming\Qt\Cross-Platform Development with Qt 6\Sandbox\Registering\build\CMakeFiles\458491486fa9129a4d3acb2a31226b21\qt6qhelloworld_metatypes.json.gen.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Aninoss\Documents\Programming\Qt\Cross-Platform Development with Qt 6\Sandbox\Registering\build\CMakeFiles\827bb31f8d5c76640139703b0c12bf5e\qhelloworld_qmltyperegistrations.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Aninoss\Documents\Programming\Qt\Cross-Platform Development with Qt 6\Sandbox\Registering\build\CMakeFiles\d0e62d1cab80271098293f375beca095\qrc_qmake_rec.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Aninoss\Documents\Programming\Qt\Cross-Platform Development with Qt 6\Sandbox\Registering\build\CMakeFiles\4694fbcd37fff460e018e1c998548622\main_qml.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Aninoss\Documents\Programming\Qt\Cross-Platform Development with Qt 6\Sandbox\Registering\build\CMakeFiles\d0e62d1cab80271098293f375beca095\qrc_QHelloWorld_raw_qml_0.cpp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Aninoss\Documents\Programming\Qt\Cross-Platform Development with Qt 6\Sandbox\Registering\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Aninoss\Documents\Programming\Qt\Cross-Platform Development with Qt 6\Sandbox\Registering\build\meta_types\qt6qhelloworld_metatypes.json.gen" />
+    <None Include="C:\Users\Aninoss\Documents\Programming\Qt\Cross-Platform Development with Qt 6\Sandbox\Registering\ui\main.qml" />
+    <None Include="D:\CL\Qt\6.2.4\msvc2019_64\lib\metatypes\qt6core_metatypes.json" />
+    <None Include="D:\CL\Qt\6.2.4\msvc2019_64\lib\metatypes\qt6qml_metatypes.json" />
+    <None Include="D:\CL\Qt\6.2.4\msvc2019_64\lib\metatypes\qt6network_metatypes.json" />
+    <None Include="D:\CL\Qt\6.2.4\msvc2019_64\lib\metatypes\qt6gui_metatypes.json" />
+    <None Include="D:\CL\Qt\6.2.4\msvc2019_64\lib\metatypes\qt6quick_metatypes.json" />
+    <None Include="D:\CL\Qt\6.2.4\msvc2019_64\lib\metatypes\qt6qmlmodels_metatypes.json" />
+    <None Include="D:\CL\Qt\6.2.4\msvc2019_64\lib\metatypes\qt6opengl_metatypes.json" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{BABD6039-6EA5-39DC-9B6C-03133790DBF8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{221C4350-7127-3CBC-BE9E-39CF8E50F729}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A1E9ACCD-C2F9-378D-B626-3C6BCB6DA828}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

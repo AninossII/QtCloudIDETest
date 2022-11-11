@@ -1,0 +1,552 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QHelloWorld",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Debug-327c510890a9f84765c3.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QHelloWorld::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QHelloWorld-Debug-94068126ff23580e301a.json",
+					"name" : "QHelloWorld",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QHelloWorld_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QHelloWorld_autogen-Debug-e66ca6654028235dc1bf.json",
+					"name" : "QHelloWorld_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QHelloWorld_automoc_json_extraction::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QHelloWorld_automoc_json_extraction-Debug-4a143593d9901f810430.json",
+					"name" : "QHelloWorld_automoc_json_extraction",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QHelloWorld_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QHelloWorld_other_files-Debug-0344803edeccf368bf1b.json",
+					"name" : "QHelloWorld_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QHelloWorld_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QHelloWorld_qmllint-Debug-25c54db23e56e59cd9cd.json",
+					"name" : "QHelloWorld_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QHelloWorld_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QHelloWorld_qmltyperegistration-Debug-0f4f215ffa0474d3592c.json",
+					"name" : "QHelloWorld_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QHelloWorld_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QHelloWorld_tooling-Debug-7678d3d9ad7da3c82e12.json",
+					"name" : "QHelloWorld_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Debug-3b1d1e1aa1f0a6fc1ca1.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-1ce8b3dbfbebd157439e.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-d64ae79a0e3b55e26149.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QHelloWorld",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-Release-327c510890a9f84765c3.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QHelloWorld::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QHelloWorld-Release-778f1bbc26fb2960d0c3.json",
+					"name" : "QHelloWorld",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QHelloWorld_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QHelloWorld_autogen-Release-e66ca6654028235dc1bf.json",
+					"name" : "QHelloWorld_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QHelloWorld_automoc_json_extraction::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QHelloWorld_automoc_json_extraction-Release-4a143593d9901f810430.json",
+					"name" : "QHelloWorld_automoc_json_extraction",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QHelloWorld_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QHelloWorld_other_files-Release-0344803edeccf368bf1b.json",
+					"name" : "QHelloWorld_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QHelloWorld_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QHelloWorld_qmllint-Release-25c54db23e56e59cd9cd.json",
+					"name" : "QHelloWorld_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QHelloWorld_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QHelloWorld_qmltyperegistration-Release-0f4f215ffa0474d3592c.json",
+					"name" : "QHelloWorld_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QHelloWorld_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QHelloWorld_tooling-Release-7678d3d9ad7da3c82e12.json",
+					"name" : "QHelloWorld_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-Release-3b1d1e1aa1f0a6fc1ca1.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Release-1ce8b3dbfbebd157439e.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Release-d64ae79a0e3b55e26149.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-MinSizeRel-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"name" : "MinSizeRel",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QHelloWorld",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-MinSizeRel-327c510890a9f84765c3.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QHelloWorld::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QHelloWorld-MinSizeRel-fc15490f801172e21008.json",
+					"name" : "QHelloWorld",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QHelloWorld_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QHelloWorld_autogen-MinSizeRel-e66ca6654028235dc1bf.json",
+					"name" : "QHelloWorld_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QHelloWorld_automoc_json_extraction::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QHelloWorld_automoc_json_extraction-MinSizeRel-4a143593d9901f810430.json",
+					"name" : "QHelloWorld_automoc_json_extraction",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QHelloWorld_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QHelloWorld_other_files-MinSizeRel-0344803edeccf368bf1b.json",
+					"name" : "QHelloWorld_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QHelloWorld_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QHelloWorld_qmllint-MinSizeRel-25c54db23e56e59cd9cd.json",
+					"name" : "QHelloWorld_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QHelloWorld_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QHelloWorld_qmltyperegistration-MinSizeRel-0f4f215ffa0474d3592c.json",
+					"name" : "QHelloWorld_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QHelloWorld_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QHelloWorld_tooling-MinSizeRel-7678d3d9ad7da3c82e12.json",
+					"name" : "QHelloWorld_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-MinSizeRel-3b1d1e1aa1f0a6fc1ca1.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-MinSizeRel-1ce8b3dbfbebd157439e.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-MinSizeRel-d64ae79a0e3b55e26149.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				}
+			]
+		},
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-RelWithDebInfo-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"name" : "RelWithDebInfo",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QHelloWorld",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ALL_BUILD::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ALL_BUILD-RelWithDebInfo-327c510890a9f84765c3.json",
+					"name" : "ALL_BUILD",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QHelloWorld::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QHelloWorld-RelWithDebInfo-8b575d3cb838e6b40c6d.json",
+					"name" : "QHelloWorld",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QHelloWorld_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QHelloWorld_autogen-RelWithDebInfo-e66ca6654028235dc1bf.json",
+					"name" : "QHelloWorld_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QHelloWorld_automoc_json_extraction::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QHelloWorld_automoc_json_extraction-RelWithDebInfo-4a143593d9901f810430.json",
+					"name" : "QHelloWorld_automoc_json_extraction",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QHelloWorld_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QHelloWorld_other_files-RelWithDebInfo-0344803edeccf368bf1b.json",
+					"name" : "QHelloWorld_other_files",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QHelloWorld_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QHelloWorld_qmllint-RelWithDebInfo-25c54db23e56e59cd9cd.json",
+					"name" : "QHelloWorld_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QHelloWorld_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QHelloWorld_qmltyperegistration-RelWithDebInfo-0f4f215ffa0474d3592c.json",
+					"name" : "QHelloWorld_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QHelloWorld_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QHelloWorld_tooling-RelWithDebInfo-7678d3d9ad7da3c82e12.json",
+					"name" : "QHelloWorld_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ZERO_CHECK::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ZERO_CHECK-RelWithDebInfo-3b1d1e1aa1f0a6fc1ca1.json",
+					"name" : "ZERO_CHECK",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-RelWithDebInfo-1ce8b3dbfbebd157439e.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-RelWithDebInfo-d64ae79a0e3b55e26149.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/Aninoss/Documents/Programming/Qt/Cross-Platform Development with Qt 6/Sandbox/Registering/build",
+		"source" : "C:/Users/Aninoss/Documents/Programming/Qt/Cross-Platform Development with Qt 6/Sandbox/Registering"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

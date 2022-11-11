@@ -1,0 +1,24 @@
+^C:\USERS\ANINOSS\DOCUMENTS\PROGRAMMING\QT\CROSS-PLATFORM DEVELOPMENT WITH QT 6\SANDBOX\REGISTERING\BUILD\CMAKEFILES\E81CF852B318C40D70A687116C3F28FE\QHELLOWORLD_QMLLINT.RULE
+setlocal
+cd "C:\Users\Aninoss\Documents\Programming\Qt\Cross-Platform Development with Qt 6\Sandbox\Registering"
+if %errorlevel% neq 0 goto :cmEnd
+C:
+if %errorlevel% neq 0 goto :cmEnd
+D:\CL\Qt\6.2.4\msvc2019_64\bin\qmllint.exe -I "C:/Users/Aninoss/Documents/Programming/Qt/Cross-Platform Development with Qt 6/Sandbox/Registering/build" --resource "C:/Users/Aninoss/Documents/Programming/Qt/Cross-Platform Development with Qt 6/Sandbox/Registering/build/.rcc/qmake_rec.qrc" --resource "C:/Users/Aninoss/Documents/Programming/Qt/Cross-Platform Development with Qt 6/Sandbox/Registering/build/.rcc/QHelloWorld_raw_qml_0.qrc" "C:/Users/Aninoss/Documents/Programming/Qt/Cross-Platform Development with Qt 6/Sandbox/Registering/ui/main.qml"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ANINOSS\DOCUMENTS\PROGRAMMING\QT\CROSS-PLATFORM DEVELOPMENT WITH QT 6\SANDBOX\REGISTERING\CMAKELISTS.TXT
+setlocal
+D:\CL\cmake\bin\cmake.exe "-SC:/Users/Aninoss/Documents/Programming/Qt/Cross-Platform Development with Qt 6/Sandbox/Registering" "-BC:/Users/Aninoss/Documents/Programming/Qt/Cross-Platform Development with Qt 6/Sandbox/Registering/build" --check-stamp-file "C:/Users/Aninoss/Documents/Programming/Qt/Cross-Platform Development with Qt 6/Sandbox/Registering/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

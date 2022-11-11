@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/rec/">
+    <file alias="ui/main.qml">C:/Users/Aninoss/Documents/Programming/Qt/Cross-Platform Development with Qt 6/Sandbox/Registering/ui/main.qml</file>
+  </qresource>
+</RCC>
+

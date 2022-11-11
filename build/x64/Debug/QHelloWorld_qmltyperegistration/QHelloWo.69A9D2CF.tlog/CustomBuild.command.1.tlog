@@ -1,0 +1,44 @@
+^C:\USERS\ANINOSS\DOCUMENTS\PROGRAMMING\QT\CROSS-PLATFORM DEVELOPMENT WITH QT 6\SANDBOX\REGISTERING\BUILD\CMAKEFILES\458491486FA9129A4D3ACB2A31226B21\QT6QHELLOWORLD_METATYPES.JSON.GEN.RULE
+setlocal
+D:\CL\Qt\6.2.4\msvc2019_64\.\bin\moc.exe -o "C:/Users/Aninoss/Documents/Programming/Qt/Cross-Platform Development with Qt 6/Sandbox/Registering/build/meta_types/qt6qhelloworld_metatypes.json.gen" --collect-json "@C:/Users/Aninoss/Documents/Programming/Qt/Cross-Platform Development with Qt 6/Sandbox/Registering/build/meta_types/QHelloWorld_json_file_list.txt"
+if %errorlevel% neq 0 goto :cmEnd
+D:\CL\cmake\bin\cmake.exe -E copy_if_different "C:/Users/Aninoss/Documents/Programming/Qt/Cross-Platform Development with Qt 6/Sandbox/Registering/build/meta_types/qt6qhelloworld_metatypes.json.gen" "C:/Users/Aninoss/Documents/Programming/Qt/Cross-Platform Development with Qt 6/Sandbox/Registering/build/meta_types/qt6qhelloworld_metatypes.json"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ANINOSS\DOCUMENTS\PROGRAMMING\QT\CROSS-PLATFORM DEVELOPMENT WITH QT 6\SANDBOX\REGISTERING\BUILD\CMAKEFILES\827BB31F8D5C76640139703B0C12BF5E\QHELLOWORLD_QMLTYPEREGISTRATIONS.CPP.RULE
+setlocal
+D:\CL\Qt\6.2.4\msvc2019_64\.\bin\qmltyperegistrar.exe "--generate-qmltypes=C:/Users/Aninoss/Documents/Programming/Qt/Cross-Platform Development with Qt 6/Sandbox/Registering/build/rec/QHelloWorld.qmltypes" --import-name=rec --major-version=1 --minor-version=0 "@C:/Users/Aninoss/Documents/Programming/Qt/Cross-Platform Development with Qt 6/Sandbox/Registering/build/qmltypes/QHelloWorld_foreign_types.txt" -o "C:/Users/Aninoss/Documents/Programming/Qt/Cross-Platform Development with Qt 6/Sandbox/Registering/build/qhelloworld_qmltyperegistrations.cpp" "C:/Users/Aninoss/Documents/Programming/Qt/Cross-Platform Development with Qt 6/Sandbox/Registering/build/meta_types/qt6qhelloworld_metatypes.json"
+if %errorlevel% neq 0 goto :cmEnd
+D:\CL\cmake\bin\cmake.exe -E make_directory "C:/Users/Aninoss/Documents/Programming/Qt/Cross-Platform Development with Qt 6/Sandbox/Registering/build/.generated"
+if %errorlevel% neq 0 goto :cmEnd
+D:\CL\cmake\bin\cmake.exe -E touch "C:/Users/Aninoss/Documents/Programming/Qt/Cross-Platform Development with Qt 6/Sandbox/Registering/build/.generated/QHelloWorld.qmltypes"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ANINOSS\DOCUMENTS\PROGRAMMING\QT\CROSS-PLATFORM DEVELOPMENT WITH QT 6\SANDBOX\REGISTERING\BUILD\CMAKEFILES\E81CF852B318C40D70A687116C3F28FE\QHELLOWORLD_QMLTYPEREGISTRATION.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\ANINOSS\DOCUMENTS\PROGRAMMING\QT\CROSS-PLATFORM DEVELOPMENT WITH QT 6\SANDBOX\REGISTERING\CMAKELISTS.TXT
+setlocal
+D:\CL\cmake\bin\cmake.exe "-SC:/Users/Aninoss/Documents/Programming/Qt/Cross-Platform Development with Qt 6/Sandbox/Registering" "-BC:/Users/Aninoss/Documents/Programming/Qt/Cross-Platform Development with Qt 6/Sandbox/Registering/build" --check-stamp-file "C:/Users/Aninoss/Documents/Programming/Qt/Cross-Platform Development with Qt 6/Sandbox/Registering/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

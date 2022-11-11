@@ -1,0 +1,42 @@
+[
+    {
+        "classes": [
+            {
+                "classInfos": [
+                    {
+                        "name": "QML.Element",
+                        "value": "auto"
+                    }
+                ],
+                "className": "BackendLogic",
+                "methods": [
+                    {
+                        "access": "public",
+                        "name": "getData",
+                        "returnType": "int"
+                    },
+                    {
+                        "access": "public",
+                        "name": "getHWorld",
+                        "returnType": "QString"
+                    },
+                    {
+                        "access": "public",
+                        "name": "getDescription",
+                        "returnType": "QString"
+                    }
+                ],
+                "object": true,
+                "qualifiedClassName": "BackendLogic",
+                "superClasses": [
+                    {
+                        "access": "public",
+                        "name": "QObject"
+                    }
+                ]
+            }
+        ],
+        "inputFile": "backendlogic.h",
+        "outputRevision": 68
+    }
+]

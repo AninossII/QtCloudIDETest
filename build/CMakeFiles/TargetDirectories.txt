@@ -1,0 +1,11 @@
+C:/Users/Aninoss/Documents/Programming/Qt/Cross-Platform Development with Qt 6/Sandbox/Registering/build/CMakeFiles/QHelloWorld.dir
+C:/Users/Aninoss/Documents/Programming/Qt/Cross-Platform Development with Qt 6/Sandbox/Registering/build/CMakeFiles/QHelloWorld_automoc_json_extraction.dir
+C:/Users/Aninoss/Documents/Programming/Qt/Cross-Platform Development with Qt 6/Sandbox/Registering/build/CMakeFiles/QHelloWorld_qmltyperegistration.dir
+C:/Users/Aninoss/Documents/Programming/Qt/Cross-Platform Development with Qt 6/Sandbox/Registering/build/CMakeFiles/all_qmltyperegistrations.dir
+C:/Users/Aninoss/Documents/Programming/Qt/Cross-Platform Development with Qt 6/Sandbox/Registering/build/CMakeFiles/QHelloWorld_other_files.dir
+C:/Users/Aninoss/Documents/Programming/Qt/Cross-Platform Development with Qt 6/Sandbox/Registering/build/CMakeFiles/QHelloWorld_qmllint.dir
+C:/Users/Aninoss/Documents/Programming/Qt/Cross-Platform Development with Qt 6/Sandbox/Registering/build/CMakeFiles/all_qmllint.dir
+C:/Users/Aninoss/Documents/Programming/Qt/Cross-Platform Development with Qt 6/Sandbox/Registering/build/CMakeFiles/QHelloWorld_tooling.dir
+C:/Users/Aninoss/Documents/Programming/Qt/Cross-Platform Development with Qt 6/Sandbox/Registering/build/CMakeFiles/QHelloWorld_autogen.dir
+C:/Users/Aninoss/Documents/Programming/Qt/Cross-Platform Development with Qt 6/Sandbox/Registering/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Aninoss/Documents/Programming/Qt/Cross-Platform Development with Qt 6/Sandbox/Registering/build/CMakeFiles/ZERO_CHECK.dir

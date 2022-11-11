@@ -1,0 +1,1 @@
+C:/Users/Aninoss/Documents/Programming/Qt/Cross-Platform Development with Qt 6/Sandbox/Registering/build/QHelloWorld_autogen/include_Debug/6YEA5652QU/moc_backendlogic.cpp.json
